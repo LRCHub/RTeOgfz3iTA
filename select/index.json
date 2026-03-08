@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "If It Only Gets Better",
+  "base_artist": "Joji",
+  "createdAt": "2026-03-08T06:43:00.249267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If It Only Gets Better",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/01_If_It_Only_Gets_Better_Joji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If It Only Gets Better",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/02_If_It_Only_Gets_Better_Joji.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If It Only Gets Better",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/03_If_It_Only_Gets_Better_Joji.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If It Only Gets Better (Paused)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/04_If_It_Only_Gets_Better_(Paused)_Joji.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If It Only Gets Better [Explicit]",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/05_If_It_Only_Gets_Better_[Explicit]_Joji.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "If It Only Gets Better",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_If_It_Only_Gets_Better_Joji.txt"
+    }
+  ]
+}
